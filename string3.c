@@ -9,7 +9,7 @@ int main()
         printf ("%c ", n);
         n++;
         printf ("%c ", n);
-        n=2-n;
+        n=n-2;
         printf ("%c", n);
     return 0;
 }

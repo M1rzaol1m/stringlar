@@ -24,7 +24,7 @@ int main()
         k++;
     }
     }
-        printf("\n%d", k);
+        printf("\nKatta hariflar soni %d-ta", k);
 
     return 0;
 }
